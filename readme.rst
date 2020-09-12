@@ -1,5 +1,5 @@
-Maaf Kak Saya Sudah Kuliah:(
-Saya tidak melihat persyaratan awal
+Maaf Kak Saya Sudah Kuliah<br/>
+Saya tidak melihat persyaratan awal<br/>
 ###################
 What is CodeIgniter
 ###################
